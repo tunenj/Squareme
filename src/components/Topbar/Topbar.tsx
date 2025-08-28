@@ -29,7 +29,7 @@ const Topbar = () => {
                     >
                         <Image
                             src="/images/logo.png"
-                            alt="Avetium"
+                            alt="squareme"
                             width={100}
                             height={24}
                             className="object-contain"
